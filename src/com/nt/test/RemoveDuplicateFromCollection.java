@@ -13,7 +13,7 @@ public class RemoveDuplicateFromCollection {
 		System.out.println(al);
 		System.out.println(al1);
         int a=22;
-        System.out.println(a);
+        System.out.println(a); 
         
 	}
 }
