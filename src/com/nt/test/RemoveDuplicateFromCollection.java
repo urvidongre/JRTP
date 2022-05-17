@@ -12,6 +12,7 @@ public class RemoveDuplicateFromCollection {
 		ArrayList<Integer> al1 = new ArrayList(lhs);
 		System.out.println(al);
 		System.out.println(al1);
+		System.out.println();
 
 	}
 }
